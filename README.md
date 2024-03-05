@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriele D'attile</h1>
+![manner](https://github.com/GabrieleDattile/GabrieleDattile/assets/137740496/86e49829-4555-4742-aae7-d885c187cea7)
+
 <h3 align="center">I am a cybersecurity enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrieledattile&label=Profile%20views&color=0e75b6&style=flat" alt="gabrieledattile" /> </p>
