@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriele D'attile</h1>
 
 <div style="text-align:center">
-    <img src="https://github.com/GabrieleDattile/GabrieleDattile/raw/main/assets/137740496/57ee03d6-1d01-44f3-9afb-0204ee423cff.gif" alt="Descrizione della GIF">
-</div>
+    ![889720fb0226b68d513f1d2256f984c9](https://github.com/GabrieleDattile/GabrieleDattile/assets/137740496/27eb6854-4fbd-4ae9-a613-bfbb2077734b)
+
 
 
 
