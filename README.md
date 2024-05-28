@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriele D'attile</h1>
 
-![a](![889720fb0226b68d513f1d2256f984c9](https://github.com/GabrieleDattile/GabrieleDattile/assets/137740496/5806472e-1e82-4525-a861-3d8be17d7c17)
-)
+![](https://github.com/GabrieleDattile/GabrieleDattile/raw/main/assets/137740496/5806472e-1e82-4525-a861-3d8be17d7c17.gif)
+
+
 
 ![manner](https://github.com/GabrieleDattile/GabrieleDattile/assets/137740496/86e49829-4555-4742-aae7-d885c187cea7)
 
