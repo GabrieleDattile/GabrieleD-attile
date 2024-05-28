@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriele D'attile</h1>
 
-<h1 align="center"
 ![demon-slayer-zenitsus-sword-8jvstsoo1yx1s1z6](https://github.com/GabrieleDattile/GabrieleDattile/assets/137740496/acd7a912-3311-49fe-8858-00aa78a9143d)
 
 
