@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrieledattile&show_icons=true&locale=en" alt="gabrieledattile" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieledattile&" alt="gabrieledattile" /></p>
+
+[![Bitcoin](https://toppng.com/public/uploads/preview/bitcoin-png-bitcoin-logo-transparent-background-11562933997uxok6gcqjp.png)](link-al-tuo-wallet-Bitcoin)
