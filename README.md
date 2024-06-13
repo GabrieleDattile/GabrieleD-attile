@@ -27,6 +27,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieledattile&" alt="gabrieledattile" /></p>
 
-<a href="link-al-tuo-wallet-Bitcoin">
+<a href="bc1qdaamq2yfwvqvkvex2dl5p6s30c3c645htp3p94">
   <img src="https://github.com/GabrieleDattile/GabrieleDattile/assets/137740496/f5ee122e-89e7-4c5a-a33f-25aeb53b9b3f" alt="Bitcoin" style="width: 50px; height: 50px;">
 </a>
