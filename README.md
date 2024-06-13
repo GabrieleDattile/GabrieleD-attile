@@ -27,4 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieledattile&" alt="gabrieledattile" /></p>
 
-[![Bitcoin](https://toppng.com/public/uploads/preview/bitcoin-png-bitcoin-logo-transparent-background-11562933997uxok6gcqjp.png)](link-al-tuo-wallet-Bitcoin)
+[![Bitcoin](https://github.com/GabrieleDattile/GabrieleDattile/assets/137740496/f5ee122e-89e7-4c5a-a33f-25aeb53b9b3f)
+
