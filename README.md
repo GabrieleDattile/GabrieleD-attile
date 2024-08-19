@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Route from Pentester](https://github.com/GabrieleDattile/Percorso-da-Zero-a-Pentester)
+- 🔭 I’m currently working on [real life)
 
 
 <h3 align="left">Languages and Tools:</h3>
